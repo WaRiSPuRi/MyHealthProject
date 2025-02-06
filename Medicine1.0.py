@@ -5,7 +5,7 @@ from threading import Thread
 # Predefined symptoms and illnesses
 ILLNESS_DATABASE = {
     "cold": {
-        "symptoms": ["cough", "sneezing", "runny nose", "sore throat"],
+        "symptoms": ["cough", "sneezing", "runny nose", "sore throat", "Body Ache"],
         "medicines": ["Tylenol", "NyQuil", "Vicks Vaporub"]
     },
     "flu": {
